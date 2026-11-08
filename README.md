@@ -73,7 +73,7 @@ HTML5 · CSS3 · JavaScript · Bootstrap · Firebase · Quill · Git y GitHub ·
 ## Cómo trabajo
 
 
-Uso herramientas de IA como apoyo durante el desarrollo para evitar errores de sintaxis, y reviso cada cambio antes de publicarlo.
+Uso herramientas de IA como apoyo para escribir y revisar código, y para corregir errores de ejecución con rapidez. Reviso cada cambio antes de publicarlo.
 
 
 
